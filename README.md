@@ -1,5 +1,6 @@
 ¡Hola, soy Brian Figueroa! 👋   
-![Uploading nueva.jpg…]()
+![nueva](https://github.com/binfir10/binfir10/assets/89481693/eec04bf9-391e-4a1a-97b1-c754f61fcc9e)
+
 
 
 Acerca de mí
