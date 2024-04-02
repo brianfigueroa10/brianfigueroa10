@@ -1,5 +1,6 @@
 ¡Hola, soy Brian Figueroa! 👋
 
+![Uploading DSC_0241.jpg…]()
 
 
 Acerca de mí
