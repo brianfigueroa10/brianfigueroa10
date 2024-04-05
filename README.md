@@ -14,7 +14,7 @@ Connect with me on:
 
 
 - <a href="https://www.linkedin.com/in/brian-figueroa1996">LinkedIn<a/>
-- <a href="bryan09figueroa@gmail.com](mailto:bryan09figueroa@gmail">Email<a/>
+- <a href="bryan09figueroa@gmail.com](mailto:bryan09figueroa@gmail.com)">Email<a/>
 
 - <a href="https://www.instagram.com/brianfigueroa">Instagram<a/>!
 
