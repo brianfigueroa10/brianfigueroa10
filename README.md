@@ -8,4 +8,15 @@ Currently, I am...Improving my skills in frontend development, focusing on enhan
 
 ## Technologies:
 - <b>Programming Languages:</b> Javascript/Typescript, HTML, CSS <b>Front-end:</b> React, Next Js <b>Back-end:</b> Node, Express <b>Databases:</b> SQL, MongoDB <b>Tools:</b> Axios, Redux, Tailwind CSS, JWT, etc.
-## Contact 📬Connect with me on [LinkedIn] https://www.linkedin.com/in/brian-figueroa1996 , by email at [bryan09figueroa@gmail.com](mailto:bryan09figueroa@gmail.com) or my Instagram https://www.instagram.com/brianfigueroa.
+
+## Contact 📬
+Connect with me on:
+
+
+- <a href="https://www.linkedin.com/in/brian-figueroa1996">LinkedIn<a/>
+- <a href="bryan09figueroa@gmail.com](mailto:bryan09figueroa@gmail">Email<a/>
+
+- <a href="https://www.instagram.com/brianfigueroa">Instagram<a/>!
+
+
+ https://www.linkedin.com/in/brian-figueroa1996 , by email at [bryan09figueroa@gmail.com](mailto:bryan09figueroa@gmail.com) or my Instagram https://www.instagram.com/brianfigueroa.
