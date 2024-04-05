@@ -13,6 +13,7 @@ Currently, I am...Improving my skills in frontend development, focusing on enhan
 -<b>Back-end:</b> Node, Express
 
 -<b>Databases:</b> SQL, MongoDB
+
 -<b>Tools:</b> Axios, Redux, Tailwind CSS, JWT, etc.
 
 ## Contact 📬
