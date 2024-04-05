@@ -6,10 +6,13 @@ Development ExperienceI consider myself a self-taught enthusiast for technology 
 Currently, I am...Improving my skills in frontend development, focusing on enhancing web application architecture, best programming practices, or anything related to the world of technology. I am always eager to learn new technologies and techniques.
 
 ## Technologies:
--<b>Programming Languages:</b> Javascript/Typescript, HTML, CSS 
--<b>Front-end:</b> React, Next Js 
--<b>Back-end:</b> Node, Express 
--<b>Databases:</b> SQL, MongoDB 
+-<b>Programming Languages:</b> Javascript,Typescript, HTML, CSS
+
+-<b>Front-end:</b> React, Next Js
+
+-<b>Back-end:</b> Node, Express
+
+-<b>Databases:</b> SQL, MongoDB
 -<b>Tools:</b> Axios, Redux, Tailwind CSS, JWT, etc.
 
 ## Contact 📬
