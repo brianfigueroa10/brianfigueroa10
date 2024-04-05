@@ -1,34 +1,10 @@
-¡Hola, soy Brian Figueroa! 👋   
-![nueva](https://github.com/binfir10/binfir10/assets/89481693/eec04bf9-391e-4a1a-97b1-c754f61fcc9e)
+# Hi, I'm <a href="https://www.linkedin.com/in/brian-figueroa1996">BRIAN FIGUEROA<a/>! 👋 </br> <b> Full Stack Developer 🧑🏻‍💻</b>
+## About Me 🚀A passionate 27-year-old software developer originally from San Miguel, Buenos Aires.
+Currently, on the path to obtaining my Bachelor's degree in Systems at the National University of General Sarmiento (UNGS), where I am acquiring a solid theoretical foundation that complements my practical skills as a developer.
+Development ExperienceI consider myself a self-taught enthusiast for technology and web development.Over the past 2 years, I have been immersed in the world of frontend development, where I have gained experience working with a wide variety of technologies.
 
+Currently, I am...Improving my skills in frontend development, focusing on enhancing web application architecture, best programming practices, or anything related to the world of technology. I am always eager to learn new technologies and techniques.
 
-
-Acerca de mí
-¡Hola! Mi nombre es Brian Figueroa, un apasionado desarrollador de software de 27 años originario de San Miguel, Buenos Aires. 
-Actualmente, estoy casado, en el camino hacia obtener mi Licenciatura en Sistemas en la Universidad Nacional de General Sarmiento (UNGS), donde estoy adquiriendo una sólida base teórica que complementa mis habilidades prácticas como desarrollador.  
-Además de mi pasión por la tecnología, también soy un ávido amante de la música soy bajista y apasionado del Rock 🎸
-
-Experiencia en Desarrollo
-Me considero un autodidacta apasionado por la tecnología y el desarrollo web. 
-Durante los últimos 2 años, he estado inmerso en el mundo del desarrollo frontend, donde he adquirido experiencia trabajando con una amplia variedad de tecnologías, 
-incluyendo:
-
-HTML y CSS,
-JavaScript y TypeScript,
-React y Next.js,
-Node.js y Express,
-MongoDB y Prisma,
-
-Actualmente estoy...
-Mejorar mis habilidades en el desarrollo frontend, centrándome en mejorar la arquitectura de aplicaciones web, mejores prácticas de programación,
-o cualquier cosa relacionada con el mundo de la tecnología.. Siempre estoy buscando aprender nuevas tecnologías y técnicas. 
-
-Estoy busqueda de colaborar en proyectos interesantes donde pueda contribuir con mis habilidades y aprender de otros desarrolladores. Me encantaría formar parte de un equipo donde podamos innovar juntos.
-
-
-📫 Puedes contactarme: 
-Email: bryan09figueroa@gmail.com
-Instagram: https://www.instagram.com/brianfigueroa_
-LinkedIn: 
-¡Gracias por tomarte el tiempo de conocerme! 
-Espero poder conectar contigo y explorar nuevas oportunidades juntos.
+## Technologies:
+- <b>Programming Languages:</b> Javascript/Typescript, HTML, CSS <b>Front-end:</b> React, Next Js <b>Back-end:</b> Node, Express <b>Databases:</b> SQL, MongoDB <b>Tools:</b> Axios, Redux, Tailwind CSS, JWT, etc.
+## Contact 📬Connect with me on [LinkedIn] https://www.linkedin.com/in/brian-figueroa1996 , by email at [bryan09figueroa@gmail.com](mailto:bryan09figueroa@gmail.com) or my Instagram https://www.instagram.com/brianfigueroa.
