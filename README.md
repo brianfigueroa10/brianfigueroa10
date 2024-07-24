@@ -25,11 +25,6 @@ I consider myself a self-taught enthusiast for technology and web development. O
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 ![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=json-web-tokens)
 
-## 📈 GitHub Stats
-
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BRIAN-FIGUEROA&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRIAN-FIGUEROA&layout=compact&theme=radical)
-
 ## 📬 Contact
 Connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
