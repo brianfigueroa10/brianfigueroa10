@@ -1,8 +1,6 @@
 # Hi, I'm BRIAN FIGUEROA! 👋
 ### Full Stack Developer 🧑🏻‍💻
 
-![Profile Views](https://komarev.com/ghpvc/?username=BRIAN-FIGUEROA&color=blue)
-
 ## About Me 🚀
 A passionate 27-year-old software developer originally from San Miguel, Buenos Aires. Currently, on the path to obtaining my Bachelor's degree in Systems at the National University of General Sarmiento (UNGS), where I am acquiring a solid theoretical foundation that complements my practical skills as a developer.
 
